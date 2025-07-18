@@ -1,0 +1,397 @@
+Actual,Predicted,nama DTW
+0.0,0.5643803366932896,agro wisata amanah
+0.0,0.49300829581710737,agro wisata bhumi merapi
+0.0,0.49320784018587266,agrowisata lembah asri serang (d las)
+0.0,0.5640565925101007,agrowisata sondokoro
+0.0,0.5421647686111374,agrowisata tambi
+0.0,0.4931908145766883,air mancur alun-alun purwokerto
+0.0,0.49322021346899914,air terjun curug cibedil
+0.0,0.4635927887752529,air terjun curug winong
+0.0,0.49300829581710737,air terjun grojogan sewu
+0.0,0.49302991771101473,air terjun jumog
+0.0,0.5435293894232148,air terjun kali pancur
+0.0,0.5435235137434432,air terjun kedung kayang
+0.0,0.49300829581710737,air terjun kedung pedut
+0.0,0.4635916556812113,air terjun parang ijo
+0.0,0.49300829581710737,air terjun sri gethuk
+0.0,0.4931832518680672,alam seroja
+0.0,0.49300829581710737,alun alun selatan
+0.0,0.46359197228041166,alun-alun banjarnegara
+0.0,0.542167927776285,alun-alun cilacap
+0.0,0.49299964430979254,alun-alun karimunjawa
+0.0,0.49318370298738856,alun-alun kidul
+0.0,0.5434412463092044,alun-alun kota magelang
+0.0,0.5422730847727509,alun-alun kota rembang
+0.0,0.49300829581710737,alun-alun selatan
+0.0,0.493229729237658,ayana gedong songo
+0.0,0.49320570169183026,bangunan pt. perkebunan xv
+0.0,0.5434924113146355,banyunibo
+0.0,0.49300829581710737,baron beach
+0.0,0.49317640662267664,batu ratapan angin
+0.0,0.5434898527269391,baturraden
+0.0,0.4931680249160404,baturraden adventure forest
+0.0,0.49320970882725756,bengawan solo
+0.0,0.5423244983691979,benteng pendem
+0.0,0.5423232885871615,benteng portugis
+0.0,0.4931793044596265,benteng van der wijck
+0.0,0.49321414859262236,bledug kuwu
+0.0,0.49300829581710737,blue lagoon sendang tirta budi
+0.0,0.493240410049985,borobudur temple
+0.0,0.4930020380250458,brown canyon
+0.0,0.4635914259751269,bukit barede
+0.0,0.4931619742902738,bukit bintang
+0.0,0.5643795017313145,bukit cinta karimunjawa
+0.0,0.49300829581710737,bukit klangon
+0.0,0.49300829581710737,bukit lintang sewu
+0.0,0.49300829581710737,bukit panguk kediwung
+0.0,0.49300829581710737,bukit paralayang
+0.0,0.49318279453130465,bukit pentulu indah
+0.0,0.542148683766407,bukit rhema
+0.0,0.46359074825921015,bukit rhema gereja ayam
+0.0,0.5144715339710958,bukit sekipan
+0.0,0.49319550490977104,bukit tidar
+0.0,0.5435178043275719,bukit tranggulasih
+0.0,0.49300829581710737,bukit watu lumbung
+0.0,0.49300829581710737,bunker kaliadem merapi
+0.0,0.5422712999594942,cagar alam geologi karangsambung
+0.0,0.5421403366477264,candi arjuna
+0.0,0.49300829581710737,candi barong
+0.0,0.49320034754804826,candi bima
+0.0,0.5435172891865894,candi borobudur
+0.0,0.49300829581710737,candi bubrah
+0.0,0.5435199512999259,candi cetho
+0.0,0.4931853134625557,candi gedong songo
+0.5205485423099608,0.49294952544387605,candi ijo
+0.0,0.49300829581710737,candi kalasan
+0.0,0.4635927872360764,candi liyangan
+0.0,0.5434880113004656,candi lumbung
+0.0,0.5435232336691548,candi mendut (temple)
+0.0,0.4930711983094315,candi pawon
+0.0,0.4931950005691731,candi plaosan
+0.0,0.5435171489021989,candi prambanan
+0.0,0.5433751433267232,candi ratu boko
+0.0,0.49300829581710737,candi sambisari
+0.0,0.5433291046774004,candi selogriyo
+0.0,0.49319169314861633,candi setyaki
+0.5209312334980962,0.49299419868379557,candi sewu
+0.0,0.4931980601311811,candi sojiwan
+0.0,0.49318381856559845,candirejo village
+0.0,0.49133997026988263,caping park
+0.0,0.5432724970751559,curug 7 bidadari
+0.0,0.49324839071181414,curug bajing
+0.0,0.4931994380469295,curug bayan
+0.0,0.46359241084562214,curug bengkawah
+0.0,0.49318416325220016,curug benowo
+0.0,0.4932107489629614,curug cipendok
+0.0,0.5422427570428933,curug jenggala
+0.0,0.49300829581710737,curug kembang soka
+0.0,0.49319517712249666,curug klenting kuning
+0.0,0.5643802459438578,curug lawe
+0.0,0.5434967939844138,curug nangga
+0.0,0.4931821963772211,curug sewu
+0.0,0.542102433223526,curug telu
+0.0,0.4932249397105441,dalem kalitan
+0.0,0.4931690324897388,danau rawa pening
+0.0,0.5643797353762283,dataran tinggi dieng
+0.0,0.5643804445616618,de tjolomadoe
+0.0,0.49319444620881153,demak great mosque
+0.0,0.4931855527905454,deret mahoni
+0.0,0.4635910385113982,desa limbasari
+0.0,0.4932128358821857,desa rahtawu
+0.0,0.49318474289154224,desa sembungan
+0.0,0.49300829581710737,desa wisata dewi mulia srimulyo
+0.0,0.49300829581710737,desa wisata kasongan
+0.0,0.5423388438136033,desa wisata ketenger
+0.0,0.4932214228187602,desa wisata ngargogondo
+0.0,0.49300829581710737,desa wisata pentingsari
+0.0,0.5421029580012621,desa wisata serang
+0.0,0.4932328761372762,desa wisata somongari
+0.0,0.49300829581710737,desa wisata tinalah
+0.0,0.513081926018101,dieng gotripasia tour and travel
+0.0,0.463588915125631,dieng plateau theatre
+0.0,0.49300829581710737,dolandeso boro
+0.0,0.46359179382039156,dolphin karimunjawa
+0.0,0.49300382082775407,dusun semilir
+0.0,0.49300829581710737,embung batara sriten
+0.0,0.4635912582561369,embung kledung
+0.0,0.49300829581710737,fort vredeburg museum
+0.0,0.5643807518213112,gardu pandang dieng
+0.0,0.5147943672972969,gardu pandang gunung merapi
+0.0,0.49300829581710737,gardu pandang kaliurang
+0.0,0.49323290298713846,gatra kencana
+0.5641271996333033,0.5436118975045381,gedung lawang sewu
+0.0,0.463593430630866,gereja blenduk
+0.0,0.5433588126655138,goa jomblang
+0.0,0.5207706963300504,goa kreo
+0.0,0.5433958451160783,goa lawa
+0.0,0.49300829581710737,goa maria sendangsono
+0.0,0.49300829581710737,goa pindul wirawisata - tur harian
+0.0,0.49319498881743906,goa semar
+0.0,0.542152520302626,goa seplawan
+0.0,0.49322988406662327,grand maerakaca
+0.0,0.5432852287490296,grojogan sewu
+0.0,0.543286056620786,gua jatijajar
+0.0,0.46359269058006036,gua jombor
+0.0,0.49300829581710737,gua maria jatiningsih
+0.0,0.5421194582304102,gua maria kaliori
+0.0,0.5426629734136026,gua maria kerep
+0.0,0.49300829581710737,"gua maria sendangsono, kulon progo"
+0.0,0.49325667760181524,gua maria talanging sih
+0.0,0.49318518269519407,gua petruk
+0.0,0.49319479820460493,gua pindul
+0.0,0.49300829581710737,gua rancang kencono
+0.0,0.49300829581710737,gumuk pasir offroad
+0.0,0.49300829581710737,gumuk pasir parangkusumo
+0.0,0.5643810137630932,gunung andong
+0.0,0.5426414615654164,gunung merapi
+0.0,0.5643808866475163,gunung merbabu
+0.0,0.49300829581710737,gunung nglanggeran
+0.0,0.564380611380708,gunung prahu
+0.0,0.5435167007796732,gunung prau
+0.0,0.49298682930934695,gunung selok
+0.0,0.49301944561697797,gunung sikunir
+0.0,0.5423002315681416,gunung sindoro
+0.0,0.5643810202699149,gunung slamet
+0.0,0.5422898454694851,gunung telomoyo
+0.0,0.5422779857198585,gunung tidar
+0.0,0.4635902622509462,hortimart agro center
+0.0,0.49323883654034134,hutan bakau karimunjawa
+0.0,0.49318555099327116,hutan mangrove pandansari
+0.0,0.49300829581710737,hutan pinus asri
+0.0,0.49300829581710737,hutan pinus bukit becici
+0.0,0.4931821226866031,hutan pinus imogiri
+0.0,0.49300829581710737,ijen cheaper
+0.522371031838916,0.5643820353744488,istana air tamansari
+0.5225796637527358,0.5426036442557057,jalan malioboro
+0.0,0.49300829581710737,jembatan api api
+0.0,0.5643802188469618,jepara ourland park
+0.0,0.49300829581710737,jurang tembelan
+0.0,0.4931522643231414,kampoeng batik laweyan
+0.0,0.4635894668257695,kampoeng semarang
+0.0,0.49322254716182357,kampung batik kauman
+0.0,0.5421841545901588,kampung pelangi semarang
+0.0,0.46359231492090613,kampung wisata batik kauman
+0.0,0.514916445970166,kawah sikidang
+0.0,0.5147318993864605,kebun binatang gembira loka
+0.0,0.49300829581710737,kebun buah mangunan
+0.0,0.49300829581710737,kebun buah mangunan yogyakarta
+0.0,0.5424208840768395,kebun raya baturaden
+0.0,0.49320648388086913,kebun raya purwodadi - lipi
+0.0,0.49321981179222496,kebun teh kaligua
+0.0,0.4931867614668427,kebun teh kemuning
+0.0,0.49300829581710737,kebun teh nglinggo
+0.0,0.49318808158952676,kebun teh pagilaran batang
+0.0,0.46358931051738056,kebun teh tanjung sari
+0.0,0.46359240557197506,kelenteng boen tek bio
+0.0,0.49319664080227416,kelenteng cu an kiong
+0.0,0.4932234186734148,kelenteng gie yong bio
+0.0,0.4931886741781245,kelenteng hian thian siang tee
+0.0,0.4931889533376557,kemuning tea plantation
+0.0,0.564380158350375,ketep pass
+0.0,0.49300829581710737,ketoprak tobong kelana bhakti budaya
+0.0,0.49300829581710737,kids fun park
+0.0,0.4932598453340854,klenteng hok tiek bio
+0.5646339417529689,0.5432365226840242,klenteng sam po kong (gedong batu)
+0.0,0.5148061064814686,klenteng tay kak sie
+0.0,0.5432788776939941,klenteng tek hay kiong
+0.0,0.5422219332752239,kolam renang tirto argo siwarak
+0.0,0.5432373516498402,kopeng treetop adventure park
+0.5634843815191782,0.49308227753133305,kota lama semarang
+0.0,0.4930241428506889,kraton surakarta hadiningrat
+0.0,0.4635923833356004,kraton yogyakarta
+0.0,0.46359107463858185,kutabawa flower garden
+0.0,0.49300829581710737,lawang pethuk kotagede
+0.0,0.49300829581710737,ledok sambi
+0.0,0.4932152637522717,loji gandrung
+0.0,0.4932152742898128,lokananta recording audio & video cassette
+0.0,0.5433464533773517,lokawisata baturraden
+0.0,0.49300829581710737,mandira baruga
+0.0,0.49300829581710737,mangrove forest kulon progo
+0.0,0.543321412180593,menjangan kecil island
+0.0,0.49300829581710737,merapi park
+0.0,0.4931892496304179,monumen jenderal soedirman
+0.0,0.49300829581710737,monumen jogja kembali
+0.0,0.49300829581710737,monumen serangan umum 1 maret
+0.0,0.491342006830065,muncul river tubing
+0.0,0.49300829581710737,museum affandi
+0.0,0.5422760444528909,museum bank rakyat indonesia
+0.0,0.5420593625826197,museum batik danar hadi
+0.0,0.4931677630688337,museum batik pekalongan
+0.0,0.49300829581710737,museum batik yogyakarta
+0.0,0.4930195804582947,museum benteng vredeburg
+0.0,0.5207706758483169,museum diponegoro
+0.0,0.49300829581710737,museum dirgantara mandala
+0.0,0.49300829581710737,museum gunung merapi
+0.0,0.4932448251674001,museum jamu njonja meneer
+0.0,0.46359307437083785,museum jenang kudus
+0.0,0.4932210287779847,museum kapal samudraraksa
+0.0,0.4635919270880692,museum karmawibangga
+0.0,0.4635926253775175,museum karst
+0.0,0.5434254970317859,museum kereta api ambarawa
+0.0,0.49300829581710737,museum kereta keraton
+0.0,0.5147922356361322,museum keris
+0.0,0.5435395007712994,museum kota lama semarang
+0.0,0.4932032780865342,museum kretek
+0.0,0.514836549043292,museum ohd
+0.0,0.46359168810677603,museum pers nasional
+0.0,0.4932180397663879,museum prasejarah cluster dayu
+0.0,0.5433876264066205,museum prasejarah sangiran
+0.0,0.5421568721596566,museum ra kartini
+0.0,0.4931825424434561,museum radya pustaka
+0.0,0.46358980776851944,museum ranggawarsita
+0.0,0.5421408443925757,museum sonobudoyo
+0.0,0.49300829581710737,nasional museum jogya
+0.0,0.4931770150343505,national nature heritage petungkriyono
+0.0,0.49322916772973624,ngawen temple
+0.0,0.49320006000177646,ngobaran beach
+0.0,0.49301470903999584,pancuran 7
+0.0,0.5148502584389232,pandawa water world
+0.0,0.5424736702324683,pantai alam indah
+0.0,0.49302165338796405,pantai bandengan
+0.0,0.5434488526141946,pantai batu topeng
+0.0,0.49318524109355855,pantai cemara sewu
+0.0,0.49300829581710737,pantai depok
+0.0,0.49300829581710737,pantai drini
+0.0,0.5423860984734591,pantai empu rancak
+0.0,0.49300829581710737,pantai glagah indah
+0.0,0.49300829581710737,pantai goa cemara
+0.0,0.4932097191434497,pantai jetis
+0.0,0.5435091208878288,pantai karang bolong
+0.0,0.4931718728242672,pantai karang jahe
+0.0,0.5147627839836401,pantai kartini
+0.0,0.49300829581710737,pantai krakal
+0.0,0.5435337519194906,pantai kukup
+0.0,0.5432824253081332,pantai logending
+0.0,0.46358940968331724,pantai marina
+0.0,0.5421323311599466,pantai menganti
+0.0,0.49300829581710737,pantai nglambor
+0.0,0.493019606726641,pantai ombak mati
+0.0,0.4932465086632386,pantai pancuran
+0.0,0.49300829581710737,pantai pandansari
+0.46174254075765353,0.49317576203438696,pantai parangtritis
+0.0,0.5423297853454901,pantai sawangan
+0.0,0.49300829581710737,pantai sepanjang
+0.0,0.49300829581710737,pantai siung
+0.0,0.5150367704715691,pantai sundak
+0.0,0.5424045625706148,pantai suwuk
+0.0,0.5643800236288332,pantai tanjung gelam
+0.0,0.5432400794228912,pantai teluk penyu
+0.0,0.49322152543918085,pantai timang
+0.0,0.49300829581710737,pantai watu lumbung
+0.0,0.5422147997372981,pantai wediombo
+0.0,0.4932283010568932,pantai widarapayung
+0.0,0.4930369771574158,pasar gede solo
+0.0,0.5423065045284856,pemandian air alam muncul
+0.0,0.543513581194918,pemandian air panas guci
+0.0,0.4635921416945092,pemandian air panas krakal
+0.0,0.49300829581710737,pintu langit
+0.0,0.4931867480159741,progo rafting
+0.0,0.49300829581710737,pronosutan view
+0.0,0.49302542984531933,pulau cemara kecil
+0.0,0.4932185556513966,pulau cilik
+0.0,0.54325992443544,pulau geleang
+0.0,0.5432930037712711,pulau nusa kambangan
+0.0,0.4931859535653527,pulau panjang jepara
+0.0,0.5434122214261212,pulau peucang
+0.0,0.49300829581710737,pulau timang
+0.0,0.49300829581710737,pule payung
+0.0,0.49300829581710737,puncak becici
+0.0,0.4932176180111249,puncak bukit scooter
+0.0,0.5421384133391197,puncak suroloyo
+0.0,0.49322668093316235,punthuk mongkrong
+0.0,0.5422883243673178,punthuk setumbu
+0.0,0.46359210089366965,punthuk sukmojoyo
+0.0,0.4635911910742758,rowo jombor
+0.0,0.49318473632396365,rumah atsiri indonesia
+0.0,0.4635929434315085,rumah seni banyu bening
+0.0,0.49300829581710737,sabila farm
+0.0,0.49318017973964573,saloka theme park
+0.0,0.49300829581710737,sandboarding gumukpasir (jogja adventure trip)
+0.0,0.4932059091671349,sanggaluri park
+0.0,0.4635907772315567,santosa stable
+0.0,0.4931896450291917,seasky karimunjawa
+0.0,0.4932135933029748,selasar borobudur
+0.0,0.4635919262709886,semarang kreatif galeri
+0.0,0.49317621713812393,sendang sriningsih
+0.0,0.4635917835895668,serayu river
+0.5643458876128414,0.4913571707778574,simpang lima
+0.0,0.4635907258451987,small world
+0.0,0.4931862838662359,sofia land
+0.0,0.4931854951458455,solo safari
+0.0,0.5421275669666893,sukuh temple
+0.0,0.5640569831869856,sumber mata air umbul jumprit
+0.0,0.4635923174563864,sumur jolotundo
+0.0,0.5423880403322598,taman air tlatar
+0.0,0.5643803830700921,taman akuarium besar purbasari
+0.0,0.4931823465320316,taman andhang pangrenan
+0.0,0.4932324124251544,taman balai kemambang
+0.0,0.5147956711687351,taman balekambang
+0.0,0.5434685256031824,taman balekambang tawangmangu
+0.0,0.49300829581710737,taman budaya yogyakarta
+0.0,0.4931808868398598,taman bunga celosia
+0.0,0.49115772323319384,taman diponegoro
+0.0,0.5423385212987865,taman djamoe indonesia
+0.0,0.4931974595262061,taman garuda
+0.0,0.463592592967321,taman hutan rakyat mangkunagoro
+0.0,0.5643809761554582,taman kyai langgeng
+0.0,0.5422492451559303,taman lalu lintas anak bangsa
+0.0,0.4635923682553938,taman menteri supeno
+0.0,0.49318005470700105,taman nasional gunung merapi plawangan turgo
+0.0,0.5421455577585368,taman nasional gunung merbabu
+0.0,0.4635927160059635,taman pasar burung depok
+0.0,0.49300829581710737,taman pelangi
+0.0,0.5150429998228008,taman pintar yogyakarta
+0.0,0.49324162304579194,taman puri maerokoco
+0.0,0.5423302853609175,taman rakyat slawi ayu
+0.0,0.564056537224161,taman rekreasi margasatwa serulingmas
+0.0,0.4635913782213821,taman srigunting
+0.0,0.564380628356942,taman sriwedari
+0.0,0.49300829581710737,taman sungai mudal
+0.0,0.4930171598033304,taman tebing breksi
+0.0,0.4932098537877489,taman wisata air boyolali
+0.0,0.5433127151972066,taman wisata curug kaliurip
+0.0,0.5432847799769612,taman wisata kopeng
+0.0,0.5432143761585129,taman wisata pendidikan purbasari pancuran mas
+0.0,0.5435208571573856,taman wisata sikembang
+0.52061014567811,0.49317546568076565,tebing breksi
+0.0,0.49299011499890755,telaga cebong dieng
+0.0,0.5643806400307905,telaga menjer
+0.0,0.5422775166220721,telaga pengilon
+0.0,0.4635920972875762,telaga sunyi
+0.0,0.4930072835416988,telaga warna
+0.0,0.49300829581710737,tembi rumah budaya
+0.0,0.49318813389747274,the lawu park
+0.0,0.49300829581710737,the lost world castle
+0.0,0.4931738755580393,the sea pantai cahaya
+0.0,0.4931976598530318,the village
+0.0,0.49300829581710737,titik nol kilometer yogyakarta
+0.0,0.49300829581710737,tlogo putri
+0.0,0.5421196009306645,top selfie pinusan
+0.0,0.5426976434168838,top selfie pinusan kragilan
+0.0,0.5144934502205972,tugu muda
+0.0,0.5643807943790782,tugu yogyakarta
+0.0,0.5643801158833013,tumurun private museum
+0.0,0.5429944253841554,umbul manten
+0.0,0.4931899592361227,umbul pengging
+0.0,0.543388156324285,umbul ponggok
+0.0,0.46359310736089504,umbul sidomukti
+0.0,0.5421280355931151,waduk cacaban
+0.0,0.4932398201705737,waduk gajah mungkur
+0.0,0.5423390991175588,waduk jatibarang
+0.0,0.49301651914413314,waduk kedung ombo
+0.0,0.49320370824293475,waduk mulur
+0.0,0.4932023839679578,waduk sempor
+0.46546804932425384,0.5207381621254219,waduk sermo
+0.0,0.4931967409317573,wahana air pikatan
+0.0,0.5423320550065829,wahana air surya yudha waterpark
+0.0,0.4932399647771731,waterblasterid
+0.0,0.4932180414183061,wihara mahavira semarang
+0.0,0.49320734799977844,wisata alam jembangan
+0.46544289506832737,0.5207708105925801,wisata alam kalibiru
+0.0,0.5426477208690131,wisata alam pinus pengger
+0.0,0.4930300916995877,wisata alam pos mati giritengah
+0.0,0.4635905173392404,wisata apung kampung rawa
+0.0,0.49300829581710737,wisata dan petualangan kalakijo
+0.0,0.4913221070245385,wisata kuda metro stables
+0.0,0.4635929284301453,wisata pemandian jolotundo
+0.0,0.49300829581710737,wisata seribu batu songgo langit
